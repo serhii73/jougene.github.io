@@ -1,11 +1,11 @@
 # SITE CONFIGURATION
-baseurl: "/"
+baseurl: "/l/"
 url: "https://jougene.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: (def #'blog)
+  title: (fn [x] x)
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
