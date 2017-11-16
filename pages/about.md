@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Обо мне
 permalink: /about/
 feature-img: "assets/img/pexels/circuit.jpeg"
 ---
