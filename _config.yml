@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/l/"
+baseurl: "/"
 url: "https://jougene.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
