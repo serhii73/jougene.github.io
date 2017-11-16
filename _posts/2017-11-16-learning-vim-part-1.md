@@ -50,7 +50,7 @@ cp ~/.vim/plugged/vim-hybrid-material/colors/* ~/.vim/colors
 После чего перезапускаем редактор и радуемся.
 
 Теперь по поводу статусбара.
-![GitHub Logo](../assets/img/vim-small-with-statusbar.PNG)
+![GitHub Logo]({{ "/assets/img/vim-small-with-statusbar.PNG" | absolute_url }})
 Ставим [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline)
 Для этого добавляем в раздел плагинов строку
 `Plug 'vim-airline/vim-airline'` после чего далем :PlugInstall.
